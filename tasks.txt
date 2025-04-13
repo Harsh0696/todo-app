@@ -1,3 +1,4 @@
 To-do list:
 
 1. Adding feature with branch: feature/add-task
+2. Adding feature to delete task from list with branch: feature/delete-task
